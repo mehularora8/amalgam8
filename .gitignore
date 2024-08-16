@@ -1,3 +1,5 @@
+node_modules/
+
 # Music files
 *.mp3
 *.mp4
