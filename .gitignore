@@ -1,4 +1,10 @@
-.mp3
+node_modules/
+
+# Music files
+*.mp3
+*.mp4
+t1/
+t2/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
